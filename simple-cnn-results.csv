@@ -1,0 +1,11 @@
+acc,loss,ckp_path
+0.6124,1.1255,./logs/simplecnn_0.06/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.6152,1.1179,./logs/simplecnn_0.03/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.6074,1.1542,./logs/simplecnn_0.09/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.6083,1.1345,./logs/simplecnn_0.07/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.6102,1.1223,./logs/simplecnn_0.02/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.6151,1.1209,./logs/simplecnn_0.05/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.6094,1.1409,./logs/simplecnn_0.08/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.6126,1.1186,./logs/simplecnn_0.04/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.5988,1.1526,./logs/simplecnn_0.01/method1/KD_student_alpha0.9_temp1.0/student.pt
+0.6216,1.1126,soup
